@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "basic-lsass_dumper", "basic-lsass_dumper.vcxproj", "{0E0F8184-B828-43D2-88D1-3AC6840E949E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E0F8184-B828-43D2-88D1-3AC6840E949E}.Debug|x64.ActiveCfg = Debug|x64
+		{0E0F8184-B828-43D2-88D1-3AC6840E949E}.Debug|x64.Build.0 = Debug|x64
+		{0E0F8184-B828-43D2-88D1-3AC6840E949E}.Debug|x86.ActiveCfg = Debug|Win32
+		{0E0F8184-B828-43D2-88D1-3AC6840E949E}.Debug|x86.Build.0 = Debug|Win32
+		{0E0F8184-B828-43D2-88D1-3AC6840E949E}.Release|x64.ActiveCfg = Release|x64
+		{0E0F8184-B828-43D2-88D1-3AC6840E949E}.Release|x64.Build.0 = Release|x64
+		{0E0F8184-B828-43D2-88D1-3AC6840E949E}.Release|x86.ActiveCfg = Release|Win32
+		{0E0F8184-B828-43D2-88D1-3AC6840E949E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F1CCA85-3440-4783-B5E8-F26E101EFA79}
+	EndGlobalSection
+EndGlobal

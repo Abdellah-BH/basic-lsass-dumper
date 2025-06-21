@@ -1,0 +1,14 @@
+﻿  Source.cpp
+C:\Users\user\source\repos\basic-lsass_dumper\Source.cpp(126,16): warning C4477: 'printf' : la chaîne de format '%x' nécessite un argument de type 'unsigned int', mais l'argument variadique 1 est de type 'ULONG64'
+      C:\Users\user\source\repos\basic-lsass_dumper\Source.cpp(126,16):
+      utilisez '%llx' dans la chaîne de format
+      C:\Users\user\source\repos\basic-lsass_dumper\Source.cpp(126,16):
+      utilisez '%Ix' dans la chaîne de format
+      C:\Users\user\source\repos\basic-lsass_dumper\Source.cpp(126,16):
+      utilisez '%I64x' dans la chaîne de format
+  
+C:\Users\user\source\repos\basic-lsass_dumper\Source.cpp(201,85): warning C4474: 'printf' : trop d'arguments passés pour la chaîne de format
+      C:\Users\user\source\repos\basic-lsass_dumper\Source.cpp(201,85):
+      les espaces réservés et leurs paramètres attendent des arguments 1 variadiques, mais des arguments 2 ont été fournis
+  
+  basic-lsass_dumper.vcxproj -> C:\Users\user\source\repos\basic-lsass_dumper\x64\Debug\basic-lsass_dumper.exe
