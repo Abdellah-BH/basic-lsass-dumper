@@ -16,10 +16,10 @@ A stealth-oriented C++ tool for capturing and encrypting LSASS process memory du
 2. **Process Discovery**
    - Locates LSASS PID via `CreateToolhelp32Snapshot`
 
-3. **Memory Capture**
+3. **Capture LSASS Memory In-Memory**
    - Uses `MiniDumpWriteDump` with custom callback
    - Stores dump in heap-allocated buffer
 
-4. **Data Protection**
+4. **XOR Encrypt Dump Buffer**
    - XOR-encrypts buffer (key: `0xAA`)
    - Writes to `encrypted_lsass.dmp`
