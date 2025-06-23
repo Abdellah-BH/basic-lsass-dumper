@@ -1,6 +1,6 @@
 # LSASS Memory Dumper 
 
-A stealth-oriented C++ tool for capturing and encrypting LSASS process memory dumps, designed to study credential theft techniques
+A C++ tool for capturing and encrypting LSASS process memory dumps, designed to study credential theft techniques
 
 
 
